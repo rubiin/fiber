@@ -2,7 +2,7 @@ module github.com/rubiin/fiber
 
 go 1.21.0
 
-require github.com/gofiber/fiber/v2 v2.49.2
+require github.com/gofiber/fiber/v2 v2.50.0
 
 require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
@@ -28,9 +28,9 @@ require (
 	github.com/subosito/gotenv v1.4.2 // indirect
 	github.com/tinylib/msgp v1.1.8 // indirect
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
-	github.com/valyala/fasthttp v1.49.0 // indirect
+	github.com/valyala/fasthttp v1.50.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
-	golang.org/x/sys v0.12.0 // indirect
+	golang.org/x/sys v0.13.0 // indirect
 	golang.org/x/text v0.9.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
